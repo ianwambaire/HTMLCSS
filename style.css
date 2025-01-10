@@ -1,0 +1,9 @@
+/*only the p with a class first will be styled*/
+p.first{
+    text-align: center;
+    color: red;
+}
+/*styling multiple elements*/
+h1,h2{
+    text-align: center;
+}
