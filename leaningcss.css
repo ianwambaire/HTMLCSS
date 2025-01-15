@@ -2,10 +2,12 @@
     color: white;
     font-family: verdana;
     text-shadow: 2px 2px 5px black, 0px 0px 10px blue, 0px 0px 15px darkblue;
+    width: 500px;
 
 }
 #ba{
     font-family:sans-serif;
+    max-width: 500px;/*responsive*/
 }
 #bas{
     font-family: serif;
